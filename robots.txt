@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://labrislab.github.io/sitemap.xml
